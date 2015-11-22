@@ -45,9 +45,10 @@ public class MainActivity extends AppCompatActivity {
     @Inject
     FeedAdapter adapter;
 
-    ListView listView;
+    @Inject
+    AndroidCompositeSubscription subscriptions;
 
-    AndroidCompositeSubscription subscriptions = new AndroidCompositeSubscription();
+    ListView listView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
