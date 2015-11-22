@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+        >
+
+    <channel>
+        <title>TechBooster</title>
+        <atom:link href="http://techbooster.org/feed/" rel="self" type="application/rss+xml"/>
+        <link>http://techbooster.org</link>
+        <description>Android,Web技術の解説、情報支援サイト</description>
+        <lastBuildDate>Thu, 19 Nov 2015 23:00:50 +0000</lastBuildDate>
+        <language>ja</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <generator>http://wordpress.org/?v=4.3.1</generator>
+
+        <image>
+            <url>http://techbooster.org/wp-content/uploads/2015/10/tb_logo_500x500.png</url>
+            <title>TechBooster</title>
+            <link>http://techbooster.org</link>
+            <width>32</width>
+            <height>32</height>
+        </image>
+        <!-- podcast_generator="Blubrry PowerPress/6.2" mode="advanced" -->
+        <itunes:summary>Android,Web技術の解説、情報支援サイト</itunes:summary>
+        <itunes:author>TechBooster</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://techbooster.org/wp-content/uploads/2015/10/tb_logo_500x500.png"/>
+        <itunes:subtitle>Android,Web技術の解説、情報支援サイト</itunes:subtitle>
+        <image>
+            <title>TechBooster</title>
+            <url>http://techbooster.org/wp-content/uploads/2015/10/tb_logo_500x500.png</url>
+            <link>http://techbooster.org</link>
+        </image>
+        <rawvoice:rating>TV-G</rawvoice:rating>
+        <rawvoice:location>Tokyo, Japan</rawvoice:location>
+        <rawvoice:frequency>three times a week</rawvoice:frequency>
+        <item>
+            <title>techbooster.fm 第9回 「やんざむのコミケでかく内容とアウトプットのはなし」</title>
+            <link>http://techbooster.org/podcast/17276/</link>
+            <comments>http://techbooster.org/podcast/17276/#comments</comments>
+            <pubDate>Thu, 19 Nov 2015 23:00:50 +0000</pubDate>
+            <dc:creator><![CDATA[mhidaka]]></dc:creator>
+            <category><![CDATA[Podcast]]></category>
+
+            <guid isPermaLink="false">http://techbooster.org/?p=17276</guid>
+            <description>
+                <![CDATA[アイキャッチ 第10回「事後」 PODCAST : 今回の内容！ Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！ というわけでtechboosterでも試しに初めて見ることに [&#8230;]]]></description>
+            <wfw:commentRss>http://techbooster.org/podcast/17276/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure
+                    url="http://techbooster.org/wp-content/uploads/2015/11/techboosterfm_vol_09.mp3"
+                    length="13808558" type="audio/mpeg"/>
+            <itunes:subtitle>アイキャッチ 第10回「事後」 PODCAST : 今回の内容！ -
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとはこちらからきいてね！ -
+                今回はゲストにあんざいゆきさん（@yanzm）を迎えて、C89のはなしと執筆、講演、ブログとかエンジニアのアウトプットについてあれこれ話しました。完全に友達の会話になっちゃったな？という回です（本番はAfter...
+            </itunes:subtitle>
+            <itunes:summary>アイキャッチ
+                第10回「事後」
+                &lt;a href=&quot;http://techbooster.org/wp-content/uploads/2015/11/10.jpg&quot;&gt;&lt;/a&gt;
+
+                PODCAST : 今回の内容！
+
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとは&lt;a href=&quot;http://techbooster.org/podcast/17195/&quot;&gt;こちら&lt;/a&gt;からきいてね！
+
+                今回はゲストにあんざいゆきさん（@yanzm）を迎えて、C89のはなしと執筆、講演、ブログとかエンジニアのアウトプットについてあれこれ話しました。完全に友達の会話になっちゃったな？という回です（本番はAfterShow・・・！？）。テンションのたかいひつじをどうぞ
+
+                ハッシュタグ #techboosterfm
+
+
+                iOSの場合、 feedを http://techbooster.org/feed/podcast/ に設定すると上手くいくかも…。
+                SHOW NOTES
+                [01:00] 本を書いたり、講演したり、というはなし。 &lt;a href=&quot;https://droidkaigi.github.io/2016/&quot;&gt;DroidKaigi&lt;/a&gt;、あんざいゆきさん&lt;a
+                href=&quot;http://www.amazon.co.jp/%E6%9C%AC-%E3%81%82%E3%82%93%E3%81%96%E3%81%84%E3%82%86%E3%81%8D/s?ie=UTF8&amp;page=1&amp;rh=n%3A465392%2Cp_27%3A%E3%81%82%E3%82%93%E3%81%96%E3%81%84%E3%82%86%E3%81%8D&quot;&gt;Bookリスト&lt;/a&gt;
+                [02:30] &lt;a href=&quot;http://www.amazon.co.jp/dp/B00ZI78PA2/&quot;&gt;Android開発者のためのSwift入門&lt;/a&gt;
+                (著)中西良明、 日高正博 絶賛発売中です！
+                [03:30] Androidのフォーカス話。知見がたまってないのですごい頑張った
+                [05:30] アウトプットは将来の自分のため、という話。
+                [07:30] Androidのアップデートより実はAndroid Studioのバージョンアップのほうが重要なのでは
+                [09:15] 新しいパーミッションモデルの話 参考：初心者のための&lt;a href=&quot;http://techbooster.org/android/application/17223/&quot;&gt;M
+                Permission入門&lt;/a&gt;
+                [12:00] なぜブログを書くのか、あれは自分へのメモ。&lt;a href=&quot;http://techbooster.org/wp-content/uploads/2015/11/07.jpg&quot;&gt;
+                &lt;/a&gt;</itunes:summary>
+            <itunes:author>TechBooster</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>14:23</itunes:duration>
+        </item>
+        <item>
+            <title>techbooster.fm 第8回 「てしのAndroid開発と出会いとWearのはなし」</title>
+            <link>http://techbooster.org/podcast/17270/</link>
+            <comments>http://techbooster.org/podcast/17270/#comments</comments>
+            <pubDate>Wed, 18 Nov 2015 23:00:49 +0000</pubDate>
+            <dc:creator><![CDATA[mhidaka]]></dc:creator>
+            <category><![CDATA[Podcast]]></category>
+
+            <guid isPermaLink="false">http://techbooster.org/?p=17270</guid>
+            <description>
+                <![CDATA[アイキャッチ 第9回「すてーん」 PODCAST : 今回の内容！ Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！ というわけでtechboosterでも試しに初めて見ること [&#8230;]]]></description>
+            <wfw:commentRss>http://techbooster.org/podcast/17270/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure
+                    url="http://techbooster.org/wp-content/uploads/2015/11/techboosterfm_vol_08.mp3"
+                    length="14100297" type="audio/mpeg"/>
+            <itunes:subtitle>アイキャッチ 第9回「すてーん」 PODCAST : 今回の内容！ -
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとはこちらからきいてね！ -
+                今回はゲストにてし氏（@teshi04）を迎えてはじめてのアプリ開発とAndroid
+                Wearの実践についてあれこれ話しました。笑い声におもわずにこにこしちゃうお話です。 -
+            </itunes:subtitle>
+            <itunes:summary>アイキャッチ
+                第9回「すてーん」
+                &lt;a href=&quot;http://techbooster.org/wp-content/uploads/2015/11/09.jpg&quot;&gt;&lt;/a&gt;
+
+                PODCAST : 今回の内容！
+
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとは&lt;a href=&quot;http://techbooster.org/podcast/17195/&quot;&gt;こちら&lt;/a&gt;からきいてね！
+
+                今回はゲストにてし氏（@teshi04）を迎えてはじめてのアプリ開発とAndroid
+                Wearの実践についてあれこれ話しました。笑い声におもわずにこにこしちゃうお話です。
+
+                ハッシュタグ #techboosterfm
+
+
+                iOSの場合、 feedを http://techbooster.org/feed/podcast/ に設定すると上手くいくかも…。
+                SHOW NOTES
+                [01:30] Androidアプリ開発のキッカケはTwitterクライアントを作り始めたところから。 てししの最新アプリ：&lt;a href=&quot;https://play.google.com/store/apps/details?id=jp.tsur.booksearch&quot;&gt;バーコード書籍検索&lt;/a&gt;
+                [04:30] てしといえばAndroid Wearですよね。
+                [07:50] Wearで腹筋する&lt;a href=&quot;https://play.google.com/store/apps/details?id=jp.tsur.situpcount&quot;&gt;アプリ&lt;/a&gt;を作ったけどデバッグは実機でやるしかなかったのでちゃんと腹筋したはなし
+                [10:50] Android Wear、この1年間でアップデートがそこそこあった
+                [13:00] Wear持ち歩く？ちょっとめんどくさいけどSUICA代わりにつかえるやつもでてきたので＋アルファで変わるかも&lt;a href=&quot;http://techbooster.org/wp-content/uploads/2015/11/07.jpg&quot;&gt;
+                &lt;/a&gt;</itunes:summary>
+            <itunes:author>TechBooster</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>14:41</itunes:duration>
+        </item>
+        <item>
+            <title>techbooster.fm 第7回 AfterShow「技術の互換性を考えながら前に進むはなし」</title>
+            <link>http://techbooster.org/podcast/17264/</link>
+            <comments>http://techbooster.org/podcast/17264/#comments</comments>
+            <pubDate>Tue, 17 Nov 2015 23:00:09 +0000</pubDate>
+            <dc:creator><![CDATA[mhidaka]]></dc:creator>
+            <category><![CDATA[Podcast]]></category>
+
+            <guid isPermaLink="false">http://techbooster.org/?p=17264</guid>
+            <description>
+                <![CDATA[アイキャッチ 第7回「まえー！まえー！」 PODCAST : 今回の内容！ Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！ というわけでtechboosterでも試しに初めて [&#8230;]]]></description>
+            <wfw:commentRss>http://techbooster.org/podcast/17264/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure
+                    url="http://techbooster.org/wp-content/uploads/2015/11/techboosterfm_vol_07.mp3"
+                    length="26037217" type="audio/mpeg"/>
+            <itunes:subtitle>アイキャッチ 第7回「まえー！まえー！」 - PODCAST : 今回の内容！ -
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとはこちらからきいてね！ -
+                今回は、AfterShowということで、ひつじとらことみゅおの3人でemscriptenや東京Node学園祭に参加して思ったこと、エッジな技術とのつきあい方から転じてプラットフォームの互換性を話し...
+            </itunes:subtitle>
+            <itunes:summary>アイキャッチ
+                第7回「まえー！まえー！」
+
+                &lt;a href=&quot;http://techbooster.org/wp-content/uploads/2015/11/08.jpg&quot;&gt;&lt;/a&gt;
+
+                PODCAST : 今回の内容！
+
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとは&lt;a href=&quot;http://techbooster.org/podcast/17195/&quot;&gt;こちら&lt;/a&gt;からきいてね！
+
+                今回は、AfterShowということで、ひつじとらことみゅおの3人でemscriptenや東京Node学園祭に参加して思ったこと、エッジな技術とのつきあい方から転じてプラットフォームの互換性を話しました。
+                ハッシュタグ #techboosterfm
+
+
+                iOSの場合、 feedを http://techbooster.org/feed/podcast/ に設定すると上手くいくかも…。
+                SHOW NOTES
+                [00:30] emscriptenやWebAssemblyなど引き合いに出しながらトランスコード雑談
+                [06:30] 実行コードが肥大する話をしながらブラウザで高速実行する方法とか
+                [10:00] 東京Node学園祭に参加して衝撃を受けたES6など新技術とのつきあい方
+                [18:40] 互換性のはなしになったのでAndroidのサポートライブラリっていうのがあってね…と続く
+                [20:30] らこ「新技術を追うのはしんどい。可能ならウェブの神様に管理されたいです！」
+                [23:00] いろんなプラットフォームで互換性＆新技術の導入のバランスを取ろうよという話
+                [25:30] モジュールの数を数えているサイトがある &lt;a href=&quot;http://www.modulecounts.com/&quot;&gt;modulecounts.com&lt;/a&gt;
+                勢いをみるとおもしろい
+
+            </itunes:summary>
+            <itunes:author>TechBooster</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>27:07</itunes:duration>
+        </item>
+        <item>
+            <title>techbooster.fm 第6回 「みゅおのSORACOMとemscriptenおすすめ話」</title>
+            <link>http://techbooster.org/podcast/17260/</link>
+            <comments>http://techbooster.org/podcast/17260/#comments</comments>
+            <pubDate>Thu, 12 Nov 2015 23:00:24 +0000</pubDate>
+            <dc:creator><![CDATA[mhidaka]]></dc:creator>
+            <category><![CDATA[Podcast]]></category>
+
+            <guid isPermaLink="false">http://techbooster.org/?p=17260</guid>
+            <description>
+                <![CDATA[アイキャッチ 第6回「ハイタッチでごうりゅう」 PODCAST : 今回の内容！ Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！ というわけでtechboosterでも試しに [&#8230;]]]></description>
+            <wfw:commentRss>http://techbooster.org/podcast/17260/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure
+                    url="http://techbooster.org/wp-content/uploads/2015/11/techboosterfm_vol_06.mp3"
+                    length="18270274" type="audio/mpeg"/>
+            <itunes:subtitle>アイキャッチ 第6回「ハイタッチでごうりゅう」 - PODCAST : 今回の内容！ -
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとはこちらからきいてね！ -
+                今回はゲストにみゅお（@muo_jp）を迎えて最近の技術でアツいものや自身の技術的背景についてあれこれ話しました。 - ハッシュタグ #techboosterfm -
+            </itunes:subtitle>
+            <itunes:summary>アイキャッチ
+                第6回「ハイタッチでごうりゅう」
+
+
+                PODCAST : 今回の内容！
+
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとは&lt;a href=&quot;http://techbooster.org/podcast/17195/&quot;&gt;こちら&lt;/a&gt;からきいてね！
+
+                今回はゲストにみゅお（@muo_jp）を迎えて最近の技術でアツいものや自身の技術的背景についてあれこれ話しました。
+
+                ハッシュタグ #techboosterfm
+
+
+                iOSの場合、 feedを http://techbooster.org/feed/podcast/ に設定すると上手くいくかも…。
+                SHOW NOTES
+                [00:30] みゅおの技術的背景、PHP、C++、C#、やってきた言語とかおしごとのはなし。
+                [04:50] アツい技術の話。IoT向けのSIM、キャリアのインフラに近い所まで利用できる&lt;a href=&quot;https://soracom.jp/&quot;&gt;SORACOM&lt;/a&gt;さん。&lt;a
+                href=&quot;https://github.com/muojp/SoraCommonNet&quot;&gt;C#用のライブラリ&lt;/a&gt;をみゅおが作った。あと自然言語解析ではマイクロソフト社の&lt;a
+                href=&quot;https://www.projectoxford.ai/&quot;&gt;プロジェクトオックスフォード&lt;/a&gt;がアツい。
+                [09:30] &lt;a href=&quot;https://github.com/kripken/emscripten&quot;&gt;Emscripten&lt;/a&gt;はC/C++などをJavaScriptに変換するLLVMコンパイラ。
+                [15:20] JavaScriptの実行速度を改善する&lt;a href=&quot;http://asmjs.org/&quot;&gt;asm.js&lt;/a&gt;と相性が良い。
+                [18:00] Emscriptenやその周辺の話、変換手順などコミックマーケット89で記事にしていくのでおたのしみに！&lt;a href=&quot;http://techbooster.org/wp-content/uploads/2015/11/07.jpg&quot;&gt;
+                &lt;/a&gt;</itunes:summary>
+            <itunes:author>TechBooster</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>19:02</itunes:duration>
+        </item>
+        <item>
+            <title>techbooster.fm 第5回 「ひつじのAndroid最新情報キャッチアップ！」</title>
+            <link>http://techbooster.org/podcast/17254/</link>
+            <comments>http://techbooster.org/podcast/17254/#comments</comments>
+            <pubDate>Tue, 10 Nov 2015 23:00:37 +0000</pubDate>
+            <dc:creator><![CDATA[mhidaka]]></dc:creator>
+            <category><![CDATA[Podcast]]></category>
+
+            <guid isPermaLink="false">http://techbooster.org/?p=17254</guid>
+            <description>
+                <![CDATA[アイキャッチ 第5回「ねこのきもちがわかります」 PODCAST : 今回の内容！ Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！ というわけでtechboosterでも試し [&#8230;]]]></description>
+            <wfw:commentRss>http://techbooster.org/podcast/17254/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure
+                    url="http://techbooster.org/wp-content/uploads/2015/11/techboosterfm_vol_05.mp3"
+                    length="19687156" type="audio/mpeg"/>
+            <itunes:subtitle>アイキャッチ 第5回「ねこのきもちがわかります」 - PODCAST : 今回の内容！ -
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとはこちらからきいてね！ -
+                今回はゲストにひつじ（@mhidaka）を迎えてAndroid開発で最近、気になったニュースをピックアップ。サポートライブラリとDozeについてのびのび話しました。 -
+            </itunes:subtitle>
+            <itunes:summary>アイキャッチ
+                第5回「ねこのきもちがわかります」
+
+                &lt;a href=&quot;http://techbooster.org/wp-content/uploads/2015/11/06.jpg&quot;&gt;&lt;/a&gt;
+
+                PODCAST : 今回の内容！
+
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとは&lt;a href=&quot;http://techbooster.org/podcast/17195/&quot;&gt;こちら&lt;/a&gt;からきいてね！
+
+                今回はゲストにひつじ（@mhidaka）を迎えてAndroid開発で最近、気になったニュースをピックアップ。サポートライブラリとDozeについてのびのび話しました。
+
+                ハッシュタグ #techboosterfm
+
+
+                iOSの場合、 feedを http://techbooster.org/feed/podcast/ に設定すると上手くいくかも…。
+                SHOW NOTES
+                [01:00] サポートライブラリが出てきた経緯とAndroid OSの関係、サポートライブラリの話 - &lt;a href=&quot;http://googledevjp.blogspot.jp/2015/11/android-231.html&quot;&gt;Google
+                Japan Developer Relations Blog&lt;/a&gt;
+                [06:35] &lt;a href=&quot;https://techbooster.booth.pm/items/126671&quot;&gt;Android改善プログラミング&lt;/a&gt;
+                第3章 Master of RecyclerView@あんざいゆきさん。
+                [09:30] サポートライブラリのバックポート、互換性どうなってるんだろうね、という疑問を試した話、サポートライブラリは、いつの日か不要になるのかな？
+                [13:30] カスタムタブってどんな機能？&lt;a href=&quot;http://techbooster.org/android/application/17119/&quot;&gt;TechBoosterのChrome
+                Custom Tabs解説記事&lt;/a&gt;
+                [16:30] Dozeモードは使ってない時を検出してディープスリープしてるよね。
+            </itunes:summary>
+            <itunes:author>TechBooster</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>20:30</itunes:duration>
+        </item>
+        <item>
+            <title>初心者のためのM Permissions入門</title>
+            <link>http://techbooster.org/android/application/17223/</link>
+            <comments>http://techbooster.org/android/application/17223/#comments</comments>
+            <pubDate>Mon, 09 Nov 2015 23:00:01 +0000</pubDate>
+            <dc:creator><![CDATA[mhidaka]]></dc:creator>
+            <category><![CDATA[アプリケーション]]></category>
+            <category><![CDATA[Android 6.0]]></category>
+            <category><![CDATA[checkSelfPermission]]></category>
+            <category><![CDATA[M Permissions]]></category>
+            <category><![CDATA[onRequestPermissionsResult]]></category>
+            <category><![CDATA[requestPermissions]]></category>
+            <category><![CDATA[shouldShowRequestPermissionRationale]]></category>
+
+            <guid isPermaLink="false">http://techbooster.org/?p=17223</guid>
+            <description>
+                <![CDATA[今回はAndroid 6.0(Marshmallow)から導入された新しいパーミッションモデルを紹介します。M Permissionsと呼ばれているこの新しい仕組みではパーミッション（機能へのアクセス権限）の仕様が改善さ [&#8230;]]]></description>
+            <wfw:commentRss>http://techbooster.org/android/application/17223/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>コミックマーケットC89 参加のお知らせ</title>
+            <link>http://techbooster.org/event/17217/</link>
+            <comments>http://techbooster.org/event/17217/#comments</comments>
+            <pubDate>Mon, 09 Nov 2015 03:14:19 +0000</pubDate>
+            <dc:creator><![CDATA[mhidaka]]></dc:creator>
+            <category><![CDATA[Android]]></category>
+            <category><![CDATA[イベント]]></category>
+
+            <guid isPermaLink="false">http://techbooster.org/?p=17217</guid>
+            <description>
+                <![CDATA[TechboosterはコミックマーケットC89に参加します。サークル配置は「12/31 – 3日目 東地区シ-58a」です。 今回も、Android、Web、Re:VIEWなど最新技術が詰まった新刊を予定しています。目 [&#8230;]]]></description>
+            <wfw:commentRss>http://techbooster.org/event/17217/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>techbooster.fm 第4回 「らこさんの自己紹介とAngular2に興味をもった経緯」</title>
+            <link>http://techbooster.org/podcast/17212/</link>
+            <comments>http://techbooster.org/podcast/17212/#comments</comments>
+            <pubDate>Sun, 08 Nov 2015 23:00:47 +0000</pubDate>
+            <dc:creator><![CDATA[mhidaka]]></dc:creator>
+            <category><![CDATA[Podcast]]></category>
+
+            <guid isPermaLink="false">http://techbooster.org/?p=17212</guid>
+            <description>
+                <![CDATA[アイキャッチ 第5回「ちこくちこく～！？」 PODCAST : 今回の内容！ Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！ というわけでtechboosterでも試しに初め [&#8230;]]]></description>
+            <wfw:commentRss>http://techbooster.org/podcast/17212/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure
+                    url="http://techbooster.org/wp-content/uploads/2015/11/techboosterfm_vol_04.mp3"
+                    length="13960280" type="audio/mpeg"/>
+            <itunes:subtitle>アイキャッチ 第5回「ちこくちこく～！？」 - PODCAST : 今回の内容！ -
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとはこちらからきいてね！ -
+                今回はゲストにてくぶで執筆してくれている、らこ（@laco0416）を迎えて自己紹介とプログラミングとの出会い、Web技術について、はなしてる回だよ。
+            </itunes:subtitle>
+            <itunes:summary>アイキャッチ
+                第5回「ちこくちこく～！？」
+
+                &lt;a href=&quot;http://techbooster.org/wp-content/uploads/2015/11/05.jpg&quot;&gt;&lt;/a&gt;
+
+                PODCAST : 今回の内容！
+
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとは&lt;a href=&quot;http://techbooster.org/podcast/17195/&quot;&gt;こちら&lt;/a&gt;からきいてね！
+
+                今回はゲストにてくぶで執筆してくれている、らこ（@laco0416）を迎えて自己紹介とプログラミングとの出会い、Web技術について、はなしてる回だよ。
+                ハッシュタグ #techboosterfm
+
+
+                iOSの場合、 feedを http://techbooster.org/feed/podcast/ に設定すると上手くいくかも…。
+                SHOW NOTES
+                [01:00] らこの自己紹介。ハンドルネームの由来、Webのフロントエンド技術者になる経緯。
+                [06:00] Webの技術の移り変わり。はやい。はやすぎる。常に過渡期。どんどんキャッチアップしないとヤバい。
+                [09:00] 冬コミでは&lt;a href=&quot;https://angular.io/&quot;&gt;Angular2&lt;/a&gt;について書こうとおもってます。どんな技術かざっくりとききました。
+                [12:30] 違う分野の最新技術にふれることで今の自分に活かす、っていうのも可能だよね、そのために調べて試すっていうのは楽しいよね。自分の好きな技術を発信していこう！
+            </itunes:summary>
+            <itunes:author>TechBooster</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>14:32</itunes:duration>
+        </item>
+        <item>
+            <title>techbooster.fm 第3回 AfterShow「てくぶの執筆環境ばなし」</title>
+            <link>http://techbooster.org/podcast/17202/</link>
+            <comments>http://techbooster.org/podcast/17202/#comments</comments>
+            <pubDate>Tue, 03 Nov 2015 23:00:29 +0000</pubDate>
+            <dc:creator><![CDATA[mhidaka]]></dc:creator>
+            <category><![CDATA[Podcast]]></category>
+
+            <guid isPermaLink="false">http://techbooster.org/?p=17202</guid>
+            <description>
+                <![CDATA[アイキャッチ 第4回「いま起きた」 PODCAST : 今回の内容！ Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！ というわけでtechboosterでも試しに初めて見るこ [&#8230;]]]></description>
+            <wfw:commentRss>http://techbooster.org/podcast/17202/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure
+                    url="http://techbooster.org/wp-content/uploads/2015/11/techboosterfm_vol_03.mp3"
+                    length="35241507" type="audio/mpeg"/>
+            <itunes:subtitle>アイキャッチ 第4回「いま起きた」 - PODCAST : 今回の内容！ -
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとはこちらからきいてね！ -
+                今回は、AfterShowということで、ひつじとらこのTechBoosterの書籍執筆環境＆CIまわしてる話だよ ハッシュタグ #techboosterfm -
+            </itunes:subtitle>
+            <itunes:summary>アイキャッチ
+                第4回「いま起きた」
+
+                &lt;a href=&quot;http://techbooster.org/wp-content/uploads/2015/11/04.jpg&quot;&gt;&lt;/a&gt;
+
+                PODCAST : 今回の内容！
+
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。初めて聞くひとは&lt;a href=&quot;http://techbooster.org/podcast/17195/&quot;&gt;こちら&lt;/a&gt;からきいてね！
+
+                今回は、AfterShowということで、ひつじとらこのTechBoosterの書籍執筆環境＆CIまわしてる話だよ
+                ハッシュタグ #techboosterfm
+
+
+                iOSの場合、 feedを http://techbooster.org/feed/podcast/ に設定すると上手くいくかも…。
+                SHOW NOTES
+                [05:00] テストが通らないとサンプルコードがパブリッシュできない 執筆環境があってね？
+                [07:00] バージョン管理する利点はDiffが見えるという感動的な点だな！という話。書籍の相互レビューどうやってるの？話
+                [11:10] TechBoosterでは読みやすさを気をつけている。漢字の扱いとか機械的に統一するのに&lt;a href=&quot;https://atom.io/packages/language-review&quot;&gt;language-review&lt;/a&gt;が便利。統合執筆環境といえるのではないか…。
+                [16:00] 技術書（同人誌）がどんどんひろがるといいなぁ。イベント合わせとかで書きはじめるといいですよ！
+                [20:00] 本を読む人に良い所をもらさず伝えるためにも、もっともっとライティング力を高めたい・・・！
+                [30:10] 一方、読み手としてのひつじは、本を通じて最新技術を教えてもらいたい。個人では興味のある技術を全部追い切れないですよね。。。
+
+            </itunes:summary>
+            <itunes:author>TechBooster</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>36:42</itunes:duration>
+        </item>
+        <item>
+            <title>techbooster.fmを聞く前に！第0回「ひつじが語るTechBoosterとは？」</title>
+            <link>http://techbooster.org/podcast/17195/</link>
+            <comments>http://techbooster.org/podcast/17195/#comments</comments>
+            <pubDate>Sun, 01 Nov 2015 23:00:47 +0000</pubDate>
+            <dc:creator><![CDATA[mhidaka]]></dc:creator>
+            <category><![CDATA[Podcast]]></category>
+
+            <guid isPermaLink="false">http://techbooster.org/?p=17195</guid>
+            <description>
+                <![CDATA[アイキャッチ 第3回「まちあわせ」 PODCAST : 今回の内容！ Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！ というわけでtechboosterでも試しに初めて見るこ [&#8230;]]]></description>
+            <wfw:commentRss>http://techbooster.org/podcast/17195/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <enclosure
+                    url="http://techbooster.org/wp-content/uploads/2015/11/techboosterfm_vol_00.mp3"
+                    length="19461041" type="audio/mpeg"/>
+            <itunes:subtitle>アイキャッチ 第3回「まちあわせ」 PODCAST : 今回の内容！
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！ というわけでtechboosterでも試しに初めて見ることにしました。 -
+                メインパーソナリティはらこ（@laco0416, C88のJavascriptoonでは第1章
+                「Polymerにng-modelを求めるのは間違っているだろうか」を担当）、毎回各ジャンルの技術者をゲストと呼ぶ形でゆるく最新技術情報と今後についてお伝えし...
+            </itunes:subtitle>
+            <itunes:summary>アイキャッチ
+                第3回「まちあわせ」&lt;a href=&quot;http://techbooster.org/wp-content/uploads/2015/11/03.jpg&quot;&gt;&lt;/a&gt;
+                PODCAST : 今回の内容！
+                Rebuild.fmなど、技術情報をざっくばらんにお伝えするpodcastいい感じですよね！
+                というわけでtechboosterでも試しに初めて見ることにしました。
+
+                メインパーソナリティはらこ（@laco0416, C88のJavascriptoonでは第1章
+                「Polymerにng-modelを求めるのは間違っているだろうか」を担当）、毎回各ジャンルの技術者をゲストと呼ぶ形でゆるく最新技術情報と今後についてお伝えしていくつもりです。C89も受かりました！執筆予定についてもガンガン載せていきたいと思っています。
+
+
+                今回は、ベースとなるTechBooserってどんなサークルなの？という話が中心です！
+                ハッシュタグ #techboosterfm
+
+
+                iOSの場合、 feedを http://techbooster.org/feed/podcast/ に設定すると上手くいくかも…。
+                SHOW NOTES
+                [00:30] TechBoosterのはじまりのはなし。大阪のみんなー！
+                [03:30] 技術ブログかくのっていいよね。&lt;a href=&quot;http://tatsu-zine.com/books/effective-android&quot;&gt;Effective
+                Android&lt;/a&gt;が転機だったのでは。みんなありがとう！
+                [06:10] コミックマーケットに参加し始めた経緯とか（C88では3日間で55万人）。&lt;a href=&quot;https://techbooster.booth.pm/&quot;&gt;Booth.pm&lt;/a&gt;でも電子版を頒布してます
+                [11:00] &lt;a href=&quot;https://github.com/kmuto/review&quot;&gt;Re:VIEW&lt;/a&gt;には大変お世話になっています
+                [12:30] podcastを始めた経緯、らこが著者とお話しながら、技術的興味などをざっくばらんにお話していきます。
+                [16:20] ひつじの考えるTechBooster「技術を吸収する＆良い技術を普及できる場にしていきたいぞい！」
+                [18:00] 技術書の鮮度話。トレンドとして技術の進化が速いというのはよいこと。テクブの技術書では電子版でのアップデートとかがんばってるよ
+            </itunes:summary>
+            <itunes:author>TechBooster</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>20:16</itunes:duration>
+        </item>
+    </channel>
+</rss>
