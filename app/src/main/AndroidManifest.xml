@@ -9,7 +9,7 @@
             android:label="@string/app_name"
             android:supportsRtl="true"
             android:theme="@style/AppTheme"
-            android:name="com.sys1yagi.techboosterfeed.DIApplication">
+            android:name=".TechBoosterFeedsApplication">
         <activity
                 android:name="com.sys1yagi.techboosterfeed.activity.MainActivity"
                 android:label="@string/app_name">

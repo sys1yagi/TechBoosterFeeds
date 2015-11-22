@@ -3,8 +3,8 @@ package com.sys1yagi.techboosterfeed.activity;
 import com.cookpad.android.rxt4a.operators.OperatorAddToCompositeSubscription;
 import com.cookpad.android.rxt4a.schedulers.AndroidSchedulers;
 import com.cookpad.android.rxt4a.subscriptions.AndroidCompositeSubscription;
-import com.sys1yagi.techboosterfeed.DIApplication;
 import com.sys1yagi.techboosterfeed.R;
+import com.sys1yagi.techboosterfeed.TechBoosterFeedsApplication;
 import com.sys1yagi.techboosterfeed.api.FeedLoader;
 import com.sys1yagi.techboosterfeed.config.Network;
 import com.sys1yagi.techboosterfeed.dagger2.component.DaggerActivityComponent;
@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         DaggerActivityComponent.builder()
-                .appComponent(DIApplication.getAppComponent())
+                .appComponent(TechBoosterFeedsApplication.getAppComponent())
                 .viewComponent(
                         DaggerViewComponent.builder().viewModule(new ViewModule(this)).build())
                 .build()

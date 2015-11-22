@@ -7,7 +7,7 @@ import com.sys1yagi.techboosterfeed.dagger2.module.AppModule;
 
 import android.app.Application;
 
-public class DIApplication extends Application {
+public class TechBoosterFeedsApplication extends Application {
 
     static AppComponent appComponent;
 
