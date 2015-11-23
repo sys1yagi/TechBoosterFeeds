@@ -29,7 +29,7 @@ public class DIContainer {
 
     public void inject(Object target) {
         for (Field field : target.getClass().getDeclaredFields()) {
-            for (Annotation annotation : field.getAnnotations()) {
+            for (Annotation annotation : field.getDeclaredAnnotations()) {
                 if (annotation.annotationType().equals(Inject.class)) {
                     Object object = get(field.getType());
                     if (object != null) {
