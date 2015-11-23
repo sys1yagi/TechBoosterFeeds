@@ -1,6 +1,6 @@
 package com.sys1yagi.mydicontainer.activity;
 
-import com.sys1yagi.mydicontainer.MyDIApplicationRewriter;
+import com.sys1yagi.mydicontainer.MyDIApplicationMock;
 import com.sys1yagi.mydicontainer.R;
 import com.sys1yagi.mydicontainer.api.Api;
 import com.sys1yagi.mydicontainer.container.DIContainer;
@@ -11,6 +11,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 
 import android.content.Intent;
+import android.support.test.InstrumentationRegistry;
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
 
@@ -39,7 +40,8 @@ public class MainActivityTest {
                 return api;
             }
         });
-        MyDIApplicationRewriter.setDiContainer(container);
+        ((MyDIApplicationMock) InstrumentationRegistry.getTargetContext().getApplicationContext())
+                .setDiContainer(container);
         when(api.request(anyString())).thenReturn("success!");
 
         activity = rule.launchActivity(new Intent());

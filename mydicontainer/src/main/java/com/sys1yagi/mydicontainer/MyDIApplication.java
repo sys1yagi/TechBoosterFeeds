@@ -8,19 +8,17 @@ import com.sys1yagi.mydicontainer.log.DebugLogger;
 import com.sys1yagi.mydicontainer.log.Logger;
 
 import android.app.Application;
-import android.util.Log;
 
 public class MyDIApplication extends Application {
 
-    static DIContainer diContainer;
+    DIContainer diContainer;
 
-    public static DIContainer getDiContainer() {
+    public DIContainer getDiContainer() {
         return diContainer;
     }
 
     @Override
     public void onCreate() {
-        Log.d("moge", "onCreate");
         super.onCreate();
         diContainer = DIContainer.create();
         diContainer.register(Logger.class, new Provider<Logger>() {
